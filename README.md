@@ -14,9 +14,9 @@ The experiments run for this work build on the following publications and their 
 
 ### Structure
 
-- Section 3: The code samples and visualizations can be found in `evalplus/humaneval`, `evalplus/mbpp`, and `evalplus/visualizations.ipynb`
+- Section 3: The code samples for HumanEval+ and MBPP+ can be found [here](https://www.dropbox.com/scl/fi/je3d9lrmu36g5x3alugsa/humaneval_evalplus.zip?rlkey=del4cd36kfyyseaw7r9zs8gn0&st=6ixn93qb&dl=0) and [here](https://www.dropbox.com/scl/fi/ks8ml79rapst8ebgce6wz/mbpp_evalplus.zip?rlkey=tm1uk56l7onv1wsyb2a9x9ist&st=szk5toba&dl=0). Simply unzip the directories into `evalplus/`.  Code for running the analysis and plotting figures is in `evalplus/visualizations.ipynb`.
 - Section 4: Inference scaling curves are in `evalplus/scaling_curves.ipynb`
-- Section 5: Samples and figures on our code quality experiments are in `race/`
+- Section 5: Code samples for our experiments on code quality can be found [here](https://www.dropbox.com/scl/fi/wwevjlo1u30jxt5bdyra7/humaneval_race.zip?rlkey=4j3hmhwuq87ndfnh4apxeil9n&st=l23miy3q&dl=0). Unzip the directory into `race/`. Analysis and visualizations are in `race/visualizations.ipynb`
 
 ## Additional questions and details
 
