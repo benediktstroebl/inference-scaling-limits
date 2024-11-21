@@ -1,2 +1,5 @@
 **/__pycache__/**
 **/.DS_Store
+evalplus/humaneval/*
+evalplus/mbpp/*
+race/humaneval/*
