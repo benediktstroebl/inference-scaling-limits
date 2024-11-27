@@ -1,6 +1,6 @@
 # Repository to preprint: Inference Scaling FLaws
 
-This repository contains the accompanying code to the preprint with the title **Inference Scaling FLaws**.
+This repository contains the accompanying code to the preprint with the title **[Inference Scaling FLaws](https://arxiv.org/abs/2411.17501)**.
 
 The experiments run for this work build on the following publications and their accompanying code repositories.
 
