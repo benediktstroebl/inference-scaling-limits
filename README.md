@@ -1,4 +1,4 @@
-# Repository to preprint: Inference Scaling FLaws
+# Repository to preprint: Inference Scaling 𝙵Laws: The Limits of LLM Resampling with Imperfect Verifiers
 
 This repository contains the accompanying code to the preprint with the title **[Inference Scaling 𝙵Laws: The Limits of LLM Resampling with Imperfect Verifiers](https://arxiv.org/abs/2411.17501)**.
 
