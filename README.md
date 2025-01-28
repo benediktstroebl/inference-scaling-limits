@@ -1,6 +1,6 @@
-# Repository to preprint: Inference Scaling 𝙵Laws: The Limits of LLM Resampling with Imperfect Verifiers
+# Supplementaty code to The Limits of Inference Scaling Through Resampling
 
-This repository contains the accompanying code to the preprint with the title **[Inference Scaling 𝙵Laws: The Limits of LLM Resampling with Imperfect Verifiers](https://arxiv.org/abs/2411.17501)**.
+This repository contains the accompanying code to the paper with the title The Limits of Inference Scaling Through Resampling.
 
 The experiments run for this work build on the following publications and their accompanying code repositories.
 
@@ -21,7 +21,3 @@ The experiments run for this work build on the following publications and their 
 ### Sample collection
 
 To collect existing samples from the EvalPlus repository and generate new samples for additional models, we used their implementation provided [here](https://github.com/evalplus/evalplus/tree/937c46858cf8e687b31b5a728b7083d6e5a84971). For generating samples for our code quality experiments, we used the original implementation of the RACE benchmark provided [here](https://github.com/jszheng21/RACE/tree/3b8ee591abd5febd8ae8ec17c7b9907949c5e1d5).
-
-## Additional questions and details
-
-You can refer to the paper and its associated appendices for more details on our setup. You can contact us at stroebl@princeton.edu
